@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+
+}
+
+.card{
+    display: inline-block;
+    justify-content: space-around;
+    margin: 5% 5%;
+    width: 300px;
+    height: auto;
+}
